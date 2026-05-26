@@ -121,16 +121,6 @@ jupyter notebook "LogisticRegression predicts Evolutionary stage based on Pokém
 📧 KcirtW0009@outlook.com  
 🔗 [GitHub Profile](https://github.com/KcirtW0009)
 
-## 贡献指南
-
-欢迎提交 Issue 和 Pull Request！
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开 Pull Request
-
 ## 致谢
 
 - [Pokemon Showdown](https://pokemonshowdown.com/) - 提供宝可梦数据
